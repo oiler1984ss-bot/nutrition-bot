@@ -1,5 +1,1 @@
-aiogram
-httpx
-python-dotenv
-google-generativeai
-aiohttp
+
